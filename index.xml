@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xmlTree.xsl"?>
+<Root>
+  <Tree treeText="Дерево Атласу природних, техногенних і соціальних небезпек виникнення надзвичайних ситуацій в Україні (АтласуНС-К)" treeDescription="З файлу AtlasEmrg_TOC_20140404.doc">
+    <branch id="b00">
+      <branchText>ВСТУП</branchText>
+      <branchDescription>В.Ч. Можливо, буде документ</branchDescription>
+      <link>test0</link>
+      <Frame>contents</Frame>
+      <ImageIndex>1</ImageIndex>
+      <leaf>
+        <leafText>Україна з Космосу (Нац. Атлас 1)</leafText>
+        <Description>Катя Поливач: Рисунок в кривих. В.Ч.: Ця карта є в 2000НА. Намагаємося використати. Вона растрова</Description>
+        <link>images/FromSpace_NA_1.jpg</link>
+        <Frame>script</Frame>
+        <ImageIndex>10</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Україна з Космосу (2014)</leafText>
+        <Description>Катя Поливач: Рисунок в кривих. В.Ч.: Ця карта є в 2000НА. Намагаємося використати. Вона растрова</Description>
+        <link>https://www.google.com/maps/@48.4377167,32.0288172,736715m/data=!3m1!1e3</link>
+        <Frame>script</Frame>
+        <ImageIndex>10</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Історико-культурні пам'ятки загальнодержавного значення (Нац. Атлас 2)</leafText>
+        <Description>В.Ч. Також є в 2000НА. Спробуємо використати. Вона векторна.</Description>
+        <link>images/1037_map.svg</link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Легенда. Історико-культурні пам'ятки загальнодержавного значення (Нац. Атлас 2)</leafText>
+        <Description>В.Ч. Також є в 2000НА. Спробуємо використати. Вона векторна.</Description>
+        <link>images/1037_legend.svg</link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Україна. Адміністративно-територіальний устрій (Нац. Атлас 1)</leafText>
+        <Description>В.Ч. Також є в 2000НА. Спробуємо використати. Вона векторна.</Description>
+        <link>images/Obl_Rg_Lb.svg</link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Україна. Адміністративно-територіальний устрій (Нац. Атлас 2)</leafText>
+        <Description>В.Ч. Також є в 2000НА. Спробуємо використати. Вона векторна.</Description>
+        <link>images/Obl_Rg_Lb.svg</link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Україна. Адміністративно-територіальний устрій (2014)</leafText>
+        <Description>В.Ч. Також є в 2000НА. Спробуємо використати. Вона векторна.</Description>
+        <link>images/Obl_Rg_Lb.svg</link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+
+    </branch>
+    <branch id="b01">
+      <branchText>ПЕРЕДУМОВИ ПОТЕНЦІЙНИХ ВИТОКІВ НАДЗВИЧАЙНИХ СИТУАЦІЙ</branchText>
+      <branchDescription />
+      <link></link>
+      <Frame>contents</Frame>
+      <ImageIndex>1</ImageIndex>
+
+      <branch id="b0102">
+        <branchText>Соціально-економічний стан</branchText>
+        <branchDescription />
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+  
+      </branch>
+      <branch id="b0103">
+        <branchText>Забрудненість території внаслідок аварії на ЧАЕС</branchText>
+        <branchDescription />
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+        <leaf>
+          <leafText>Забруднення території України цезієм-137 (станом на 10.05.2011 р.)</leafText>
+          <Description>В.Ч. Задля тесту посилання на карту цезія сайту проекту ICRIN. Працює</Description>
+          <link>http://chernobyl.info/en-US/Home/Radioecological-Information/Maps/map/106_en.aspx</link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Забруднення території України стронцієм-90 (станом на 10.05.2011 р.)</leafText>
+          <Description>В.Ч. Задля тесту посилання на карту стронція сайту проекту ICRIN. Працює</Description>
+          <link>http://chernobyl.info/en-US/Home/Radioecological-Information/Maps/map/108_en.aspx</link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Забруднення території України ізотопами плутонію</leafText>
+          <Description>В.Ч. 28-кві-14 спробував підставити посилання на карту. В лоб не спрацювало.</Description>
+          <link>images/Pt_Rg_Lb.svg</link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Забруднення території України америцієм-241 (прогноз на 2056 р.)</leafText>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Базова карта</leafText>
+          <link>images/Obl_Rg_Lb.svg</link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>        
+	<leaf>
+          <leafText>Структура сільськогосподарських угідь (рілля, сіножаті і пасовища, інші)</leafText>
+          <link>images/Agricalt_Diagr_Lb.svg</link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Плутоний</leafText>
+          <link>images/Pt_Rg_Lb.svg</link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Машап</leafText>
+          <link>images/Combine.svg</link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+
+      </branch>
+    </branch>
+    <branch id="b02">
+      <branchText>НЕБЕЗПЕКА МОЖЛИВОГО ПОГІРШЕННЯ УМОВ ПРОЖИВАННЯ НАСЕЛЕННЯ І РОБОТИ ПІДПРИЄМСТВ</branchText>
+      <branchDescription />
+      <link></link>
+      <Frame>contents</Frame>
+      <ImageIndex>1</ImageIndex>
+      <branch id="b0203">
+        <branchText>Розділ ІІІ. Соціальні небезпеки та ризики</branchText>
+        <branchDescription />
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+        <branch id="b020301">
+          <branchText>3.2. зумовлені концентрацією населення</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Густота  населення 1989 р. (Нац. Атлас 2)</leafText>
+            <Description></Description>
+            <link>images/Population_1989.jpg</link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Густота  населення 2014</leafText>
+            <Description></Description>
+            <link>images/Population_1989.jpg</link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+
+          <leaf>
+            <leafText>Міське населення</leafText>
+            <Description></Description>
+            <link>images/Urban_NatAtlas_2.jpg</link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+
+          <leaf>
+            <leafText>Розселення міського населення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Розселення сільського населення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+
+        </branch>
+
+         </branch>
+      <branch id="b0205">
+        <branchText>Розділ V. Упередження виникнення надзвичайних ситуацій</branchText>
+        <branchDescription />
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+<branch id="b020502">
+          <branchText>Організація системи запобігання можливим аваріям та ліквідації їх наслідків</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+
+          <leaf>
+            <leafText>Наукове забезпечення функціонування системи запобігання надзвичайних ситуацій</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+
+        </branch>
+      </branch>
+    </branch>
+    <branch id="bs1">
+      <branchText>Робота з Атласом</branchText>
+      <branchDescription>Сервісна гілка, тому bs1</branchDescription>
+      <link></link>
+      <Frame>contents</Frame>
+      <ImageIndex>1</ImageIndex>
+      <leaf>
+        <leafText>Керівництво користувача</leafText>
+        <Description></Description>
+        <link>..\..\Help\Help_index.htm</link>
+        <Frame>contents</Frame>
+        <ImageIndex>12</ImageIndex>
+      </leaf>
+      <branch id="bs101">
+        <branchText>Інформація про розробників</branchText>
+        <branchDescription />
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+        <leaf>
+          <leafText>Інститут Географії Національної академії наук України</leafText>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>ТОВ Інтелектуальні Системи ГЕО</leafText>
+          <Description>В.Ч. 28-кві-14 спобував послатися на файл HTML у кореневій директорії. Не спрацювало.</Description>
+          <link>toc2008RAwithXSLTiMSXML3.htm</link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Про Атлас</leafText>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+      </branch>
+    </branch>
+  </Tree>
+</Root>

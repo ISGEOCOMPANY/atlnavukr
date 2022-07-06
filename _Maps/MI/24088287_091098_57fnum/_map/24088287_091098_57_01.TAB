@@ -1,0 +1,32 @@
+!table
+!version 1050
+!charset WindowsCyrillic
+
+Definition Table
+  Type NATIVE Charset "WindowsCyrillic"
+  Fields 25
+    ID Integer ;
+    SOATO_U Char (10) Index 1 ;
+    UkrName Char (30) ;
+    RusName Char (30) ;
+    EngName Char (30) ;
+    CenterUkr Char (30) ;
+    CenterSOAT Char (10) ;
+    NPopul05 Float ;
+    NPopulU05 Float ;
+    NPopulR05 Float ;
+    Ratio Float ;
+    Date Date ;
+    Liq1 Float ;
+    Liq2 Float ;
+    Liq3 Float ;
+    Wreck1 Float ;
+    Wreck2 Float ;
+    Wreck3 Float ;
+    Wreck4 Float ;
+    Pilg Float ;
+    Child Float ;
+    Total Float ;
+    PPopul05 Float ;
+    PPopulU05 Float ;
+    PPopulR05 Float ;

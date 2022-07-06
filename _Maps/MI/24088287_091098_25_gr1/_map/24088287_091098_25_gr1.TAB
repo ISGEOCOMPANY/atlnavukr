@@ -1,0 +1,18 @@
+!table
+!version 1050
+!charset WindowsCyrillic
+
+Definition Table
+  Type NATIVE Charset "WindowsCyrillic"
+  Fields 11
+    RwID Integer ;
+    SOATO_U Char (10) ;
+    UKRNAME Char (30) ;
+    RUSNAME Char (30) ;
+    ENGNAME Char (30) ;
+    SETTLTYPE Char (10) ;
+    ZONE Integer ;
+    NewFittedZone Integer ;
+    REGION Char (30) ;
+    DISTRICT Char (30) ;
+    c25_gr1 Float ;

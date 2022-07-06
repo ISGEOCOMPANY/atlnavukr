@@ -1,0 +1,161 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Атласний навігатор</title>
+<link rel="stylesheet" href="stylesheet.css"/>
+<script type="text/javascript" src="./_JS/jquery.js"></script>
+<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+
+<!-- <script type="text/javascript" src="jquery-1.8.js"></script> -->
+<script type="text/javascript" src="./_JS/jquery.cookie.js"></script>
+<script type="text/javascript" src="./_JS/splitter.js"></script>
+
+<script type="text/javascript" src="./_JS/main.js"></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<!-- General page styles (not critical to the demos) -->
+<link rel="stylesheet" type="text/css" href="main.css" />
+
+
+<script type="text/javascript">
+
+	$(function() {
+
+		
+		$( "#dialogLegend" ).dialog({
+			autoOpen: false,
+			resizable: false,
+			title: "Легенда",
+			width: 400,
+			
+		});
+		$( "#dialogDescript" ).dialog({
+			autoOpen: false,
+			resizable: false,
+			title: "Опис",
+			width: 400,
+			
+		});
+
+		// Link to open the dialog
+		$( "#dialog-link-legend" ).click(function( event ) {
+			$( "#dialogLegend" ).dialog( "open" );
+			event.preventDefault();
+		});
+
+			$( "#dialog-link-description" ).click(function( event ) {
+			$( "#dialogDescript" ).dialog( "open" );
+			event.preventDefault();
+		});
+		
+}
+		)
+	</script>
+
+	<style type="text/css" media="all">
+	
+	
+	body{
+		font-family: Arial; 
+		margin: 5px;
+	}
+
+	.demoHeaders {
+		margin-top: 2em;
+	}
+	/*#buttons
+	{		
+		text-align: right;
+		margin-right: 5px;
+		margin-bottom: 5px;
+
+	}*/
+		#dialog-link-legend
+	{
+		background-image: url(img/icon_legend.png);
+		width: 24px;
+		height: 24px;
+		border: 0px;
+
+
+	}
+	#dialog-link-description
+	{
+		background-image: url(img/icon_description.png);
+		width: 24px;
+		height: 24px;
+		border: 0px;
+
+
+	}
+/*	#dialog-link-legend #dialog-link-description {
+		padding: .4em 1em .4em 20px;
+		text-decoration: none;
+/*		position: relative;* /
+	}*/
+	#dialog-link-legend #dialog-link-description span.ui-icon {
+		margin: 0 5px 0 0;
+		position: absolute;
+		left: .2em;
+		top: 50%;
+		margin-top: -8px;
+	}
+	#icons {
+		margin: 0;
+		padding: 0;
+	}
+	#icons li {
+		margin: 2px;
+		position: relative;
+		padding: 4px 0;
+		cursor: pointer;
+		float: left;
+		list-style: none;
+	}
+	#icons span.ui-icon {
+		float: left;
+		margin: 0 4px;
+	}
+
+
+	.fakewindowcontain .ui-widget-overlay {
+		position: absolute;
+		height: 300px;
+	}
+	</style>
+
+
+</head>
+<body>
+
+<div id="header">
+    <img src="header_logo.png" height="89" />
+</div>
+
+<div style="backgroung-color: blue; display: block; overflow: hidden; clear: both; background-color: #dbd8d5; margin: 0 0 5px 0;">
+
+	<div style="float: left; display: block; overflow: hidden; clear: both;  width: 90%;">
+		<h1 style=" margin: 0px; font-family: Arial; font-size: 20px; color: #585858; margin: 5px 0px 0px 13%;">ЗМІСТ</h1>
+	</div>
+	
+	<div style="float: right; display: block; overflow: hidden;">
+		<input type="button" id="dialog-link-legend" title="Легенда" style=" margin:5px 0px 5px 0px; cursor: pointer; visibility: hidden;" ></input>
+
+		<input type="button" id="dialog-link-description" title="Опис" style=" margin:5px 2px 5px 0px; cursor: pointer; visibility: hidden;"></input>
+	</div>
+
+</div>
+
+<div id="dialogLegend" src=""><iframe id="legendDialogContent" src="" width="100%" height="100%" style="border: 0px;"> </iframe></div>
+<div id="dialogDescript" src=""><iframe id="descriptDialogContent" src="" width="100%" height="100%" style="border: 0px;"> </iframe></div>
+<div style="display: block; overflow: hidden; clear: both;">
+<iframe id="xmlFrame" src="./_TOC/index_ukr.xml"  type="xml" style="float:left; width: 29%; height:  80%; border: solid 0px grey;"></iframe>
+	<!-- <object id="tree" data="index_ukr.xml" type="xml" style="width: 601px; height: 944px"> </object> -->
+<iframe id="mapView" src="intro.html" type="image/svg+xml" style="margin-left:-1px; text-align:left; width: 70.8%; height: calc(100% - 130px);  border: solid 1px grey; "> </iframe>
+</div>
+</body>
+</html>

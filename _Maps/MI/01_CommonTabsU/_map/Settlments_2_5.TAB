@@ -1,0 +1,15 @@
+!table
+!version 1050
+!charset WindowsCyrillic
+
+Definition Table
+  Type NATIVE Charset "WindowsCyrillic"
+  Fields 8
+    RwID Integer ;
+    SOATO_U Char (10) ;
+    UkrName Char (30) ;
+    SettlType Char (10) ;
+    Zone Float ;
+    District Char (30) ;
+    Oblast Char (30) ;
+    PN2001 Float ;

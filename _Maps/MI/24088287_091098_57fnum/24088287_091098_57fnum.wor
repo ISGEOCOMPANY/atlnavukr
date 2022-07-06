@@ -1,0 +1,75 @@
+!Workspace
+!Version 1050
+!Charset WindowsCyrillic
+Open Table "..\01_CommonTabsU\_map\Border" As Border Interactive
+Open Table "..\01_CommonTabsU\_map\Oblasts" As Oblasts Interactive
+Open Table "..\01_CommonTabsU\_map\Settlments_5" As Settlments_5 Interactive
+Open Table "..\01_CommonTabsU\_map\Hydrography_5" As Hydrography_5 Interactive
+Open Table "_map\24088287_091098_57_01" As _24088287_091098_57_01 Interactive
+Open Table "_map\24088287_091098_57_02" As _24088287_091098_57_02 Interactive
+Open Table "_map\24088287_091098_57_03" As _24088287_091098_57_03 Interactive
+Set Window Info Title "Інформація"
+Set Window Ruler Title "Лінійка"
+Map From _24088287_091098_57_03,_24088287_091098_57_02,Settlments_5,Hydrography_5,Border,Oblasts,_24088287_091098_57_01 
+  Position (0.0520833,0.0520833) Units "in"
+  Width 12.0938 Units "in" Height 9.36458 Units "in" 
+Set Window FrontWindow() ScrollBars Off Autoscroll On
+Set Map
+  CoordSys Earth Projection 33, 0, "m", 31, 49, 0, 0
+  Center (2277772.928,1935759.451)
+  Zoom 1535906.25 Units "m"
+  Preserve Zoom Display Zoom
+  Distance Units "m" Area Units "sq km" XY Units "m"
+Set Map
+  Layer 1
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Arial Cyr",0,9,0)
+    Label Line Arrow Position Right Font ("Arial Cyr",0,9,0) Pen (1,2,0) 
+      With ID
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 2
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Arial Cyr",0,9,0)
+    Label Line None Position Center Font ("Arial Cyr",0,9,0) Pen (1,2,0) 
+      With SOATO_U
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 3
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Arial Cyr",0,9,0)
+    Label Line Arrow Position Right Font ("Arial Cyr",0,9,0) Pen (1,2,0) 
+      With SOATO_U
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 4
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Arial Cyr",0,9,0)
+    Label Line Arrow Position Above Font ("Arial Cyr",0,9,0) Pen (1,2,0) 
+      With Ukrname
+      Parallel On Auto Off Overlap Off Duplicates Off Offset 2
+      Visibility On
+  Layer 5
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Arial Cyr",0,9,0)
+    Label Line Arrow Position Above Font ("Arial Cyr",0,9,0) Pen (1,2,0) 
+      With RwID
+      Parallel On Auto Off Overlap Off Duplicates Off Offset 2
+      Visibility On
+  Layer 6
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Arial Cyr",0,9,0)
+    Label Line None Position Center Font ("Arial Cyr",0,9,0) Pen (1,2,0) 
+      With SOATO_U
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 7
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Arial Cyr",0,9,0)
+    Label Line None Position Center Font ("Arial Cyr",0,9,0) Pen (1,2,0) 
+      With SOATO_U
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+Set Window FrontWindow() Printer
+ Name "Auto HP LaserJet M1005 on DARNICA" Orientation Portrait Copies 1
+ Papersize 265

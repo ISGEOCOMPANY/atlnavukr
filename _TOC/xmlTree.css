@@ -1,0 +1,29 @@
+body{
+	
+	color: navy;
+}
+.trigger{
+	font-family: Arial;
+	font-size: 12px;
+	cursor: pointer;
+	cursor: hand;
+	display: block;
+}
+.branch{
+	font-family: Arial;
+	font-size: 12px;
+	display: none;
+	margin-left: 16px;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+img{
+	height:16px; 
+	width:16px; 
+	margin-right: 3px;
+
+}

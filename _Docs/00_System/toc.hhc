@@ -1,0 +1,661 @@
+<<Root>>
+  <<Tree>>
+    <<Node>>
+      Caption=Вступ
+      Frame=contents
+      Url=..\Documents\part0.htm
+      ImageIndex=0
+      <<Node>>
+        Caption=Редакційна колегія
+        Frame=contents
+        Url=..\Documents\autors.htm
+        ImageIndex=5
+      <</Node>>
+      <<Node>>
+        Caption=Передмова
+        Frame=contents
+        Url=..\Documents\part0_1.htm
+        ImageIndex=5
+      <</Node>>
+      <<Node>>
+        Caption=Зміст
+        Frame=contents
+        Url=..\Documents\sitemap.htm
+        ImageIndex=5
+      <</Node>>
+      <<Node>>
+        Caption=Терміни та скорочення
+        Frame=contents
+        Url=..\Documents\terms.htm
+        ImageIndex=5
+      <</Node>>
+      <<Node>>
+        Caption=Література
+        Frame=contents
+        Url=..\Documents\references.htm
+        ImageIndex=5
+      <</Node>>
+    <</Node>>
+    <<Node>>
+      Caption=Радіоактивне забруднення території України
+      Frame=contents
+      Url=
+      ImageIndex=0
+      <<Node>>
+        Caption=Радіоактивне забруднення території України
+        Frame=contents
+        Url=..\Documents\part1.htm
+        ImageIndex=5
+      <</Node>>
+      <<Node>>
+        Caption=Забруднення території України цезієм-137 (станом на 1 липня 1985 року)
+        Frame=script
+        Url=..\Maps\24088287_091098_70\ref_24088287_091098_70.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Забруднення території України стронцієм-90 (станом на 1 липня 1985 року)
+        Frame=script
+        Url=..\Maps\24088287_091098_72\ref_24088287_091098_72.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Забруднення території України цезієм-137 (станом на 10 травня 1986 року)
+        Frame=script
+        Url=..\Maps\24088287_091098_105\ref_24088287_091098_105.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Забруднення території України цезієм-137 (станом на 10 травня 2006 року)
+        Frame=script
+        Url=..\Maps\24088287_091098_106\ref_24088287_091098_106.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Забруднення території України стронцієм-90 (станом на 10 травня 1986 року)
+        Frame=script
+        Url=..\Maps\24088287_091098_107\ref_24088287_091098_107.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Забруднення території України стронцієм-90 (станом на 10 травня 2006 року)
+        Frame=script
+        Url=..\Maps\24088287_091098_108\ref_24088287_091098_108.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Забруднення території України ізотопами плутонію
+        Frame=script
+        Url=..\Maps\24088287_091098_20\ref_24088287_091098_20.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Прогноз забруднення території України америцієм-241 на 2056 рік
+        Frame=script
+        Url=..\Maps\24088287_091098_22\ref_24088287_091098_22.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Забруднення зони відчуження цезієм-137 (станом на 10 травня 1986 року)
+        Frame=script
+        Url=..\Maps\24088287_091098_109\ref_24088287_091098_109.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Забруднення зони відчуження цезієм-137 (станом на 10 травня 2006 року)
+        Frame=script
+        Url=..\Maps\24088287_091098_110\ref_24088287_091098_110.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Забруднення зони відчуження стронцієм-90 (станом на 10 травня 1986 року)
+        Frame=script
+        Url=..\Maps\24088287_091098_111\ref_24088287_091098_111.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Забруднення зони відчуження стронцієм-90 (станом на 10 травня 2006 року)
+        Frame=script
+        Url=..\Maps\24088287_091098_112\ref_24088287_091098_112.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Забруднення зони відчуження ізотопами плутонію
+        Frame=script
+        Url=..\Maps\24088287_091098_33\ref_24088287_091098_33.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Забруднення зони відчуження америцієм-241
+        Frame=script
+        Url=..\Maps\24088287_091098_34\ref_24088287_091098_34.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Прогноз забруднення зони відчуження америцієм-241 на 2056 рік
+        Frame=script
+        Url=..\Maps\24088287_091098_79\ref_24088287_091098_79.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Забруднення територій цезієм-137 (за матеріалами аерогаммазйомки), місто Коростень
+        Frame=script
+        Url=..\Maps\24088287_091098_49\ref_24088287_091098_49.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Забруднення територій цезієм-137 (за матеріалами аерогаммазйомки), місто Славутич
+        Frame=script
+        Url=..\Maps\24088287_091098_71\ref_24088287_091098_71.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Місця захоронення радіоактивних відходів у зоні відчуження
+        Frame=script
+        Url=..\Maps\24088287_091098_37\ref_24088287_091098_37.htm
+        ImageIndex=4
+      <</Node>>
+    <</Node>>
+    <<Node>>
+      Caption=Опромінення населення та медичні наслідки Чонобильської катастрофи
+      Frame=contents
+      Url=
+      ImageIndex=0
+      <<Node>>
+        Caption=Опромінення населення та медичні наслідки Чонобильської катастрофи
+        Frame=contents
+        Url=..\Documents\part2.htm
+        ImageIndex=5
+      <</Node>>
+      <<Node>>
+        Caption=Доза опромінення щитоподібної залози
+        Frame=contents
+        Url=
+        ImageIndex=2
+        <<Node>>
+          Caption=Перша вікова група (до 1 року на момент аварії)
+          Frame=script
+          Url=..\Maps\24088287_091098_25_gr1\ref_24088287_091098_25_gr1.htm
+          ImageIndex=4
+        <</Node>>
+        <<Node>>
+          Caption=Друга вікова група (від 1 до 3 років на момент аварії)
+          Frame=script
+          Url=..\Maps\24088287_091098_25_gr2\ref_24088287_091098_25_gr2.htm
+          ImageIndex=4
+        <</Node>>
+        <<Node>>
+          Caption=Третя вікова група (від 4 до 7 років на момент аварії)
+          Frame=script
+          Url=..\Maps\24088287_091098_25_gr3\ref_24088287_091098_25_gr3.htm
+          ImageIndex=4
+        <</Node>>
+        <<Node>>
+          Caption=Четверта вікова група (від 8 до 11 років на момент аварії)
+          Frame=script
+          Url=..\Maps\24088287_091098_25_gr4\ref_24088287_091098_25_gr4.htm
+          ImageIndex=4
+        <</Node>>
+        <<Node>>
+          Caption=П'ята вікова група (від 12 до 15 років на момент аварії)
+          Frame=script
+          Url=..\Maps\24088287_091098_25_gr5\ref_24088287_091098_25_gr5.htm
+          ImageIndex=4
+        <</Node>>
+        <<Node>>
+          Caption=Шоста вікова група (від 16 до 18 років на момент аварії)
+          Frame=script
+          Url=..\Maps\24088287_091098_25_gr6\ref_24088287_091098_25_gr6.htm
+          ImageIndex=4
+        <</Node>>
+        <<Node>>
+          Caption=Сьома вікова група (старші 18 років на момент аварії)
+          Frame=script
+          Url=..\Maps\24088287_091098_25_gr7\ref_24088287_091098_25_gr7.htm
+          ImageIndex=4
+        <</Node>>
+      <</Node>>
+      <<Node>>
+        Caption=Вміст цезію-137 у молоці (середньорічні значення для найбільш постраждалих районів, 1991-2005 роки)
+        Frame=script
+        Url=..\Maps\24088287_091098_27\ref_24088287_091098_27.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Сумарні ефективні дози зовнішнього та внутрішнього (від радіоізотопів цезію, стронцію та трансуранових елементів) опромінення, розраховані на період 1986-2006 роки (20 років після аварії)  
+        Frame=script
+        Url=..\Maps\24088287_091098_26_abs20\ref_24088287_091098_26_abs20.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Сумарні ефективні дози зовнішнього та внутрішнього (від радіоізотопів цезію, стронцію та трансуранових елементів) опромінення, розраховані на період 1986-2055 роки (70 років після аварії)
+        Frame=script
+        Url=..\Maps\24088287_091098_26_abs70\ref_24088287_091098_26_abs70.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Поширеність захворювань серед дорослих і підлітків 1, 2, 3 груп первинного обліку
+        Frame=script
+        Url=..\Maps\24088287_091098_62\ref_24088287_091098_62.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Захворюваність серед дорослих і підлітків 1, 2, 3 груп первинного обліку
+        Frame=script
+        Url=..\Maps\24088287_091098_60\ref_24088287_091098_60.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Поширеність захворювань серед дітей до 14 років 2, 3, 4 груп первинного обліку
+        Frame=script
+        Url=..\Maps\24088287_091098_63\ref_24088287_091098_63.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Захворюваність серед дітей до 14 років 2, 3, 4 груп первинного обліку
+        Frame=script
+        Url=..\Maps\24088287_091098_61\ref_24088287_091098_61.htm
+        ImageIndex=4
+      <</Node>>
+    <</Node>>
+    <<Node>>
+      Caption=Соціально-економічні наслідки Чорнобильської катастрофи
+      Frame=contents
+      Url=
+      ImageIndex=0
+      <<Node>>
+        Caption=Соціально-економічні наслідки Чорнобильської катастрофи
+        Frame=contents
+        Url=..\Documents\part3.htm
+        ImageIndex=5
+      <</Node>>
+      <<Node>>
+        Caption=Щільність населення України
+        Frame=script
+        Url=..\Maps\24088287_091098_55\ref_24088287_091098_55.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Зонування радіоактивно забрудненої території України згідно чинних нормативно-правових актів
+        Frame=script
+        Url=..\Maps\24088287_091098_58\ref_24088287_091098_58.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Проект зонування радіоактивно забрудненої території України за даними дозиметричної паспортизації
+        Frame=script
+        Url=..\Maps\24088287_091098_66\ref_24088287_091098_66.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Чисельність і склад громадян, які мають статус постраждалих внаслідок Чорнобильської катастрофи
+        Frame=script
+        Url=..\Maps\24088287_091098_57fnum\ref_24088287_091098_57fnum.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Оздоровлення дітей, які постраждали внаслідок Чорнобильської катастрофи
+        Frame=script
+        Url=..\Maps\24088287_091098_89\ref_24088287_091098_89.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Міграції населення із забруднених територій
+        Frame=script
+        Url=..\Maps\24088287_091098_59\ref_24088287_091098_59.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Будівельна програма з ліквідації наслідків Чорнобильської катастрофи у 1996-2000 роках
+        Frame=script
+        Url=..\Maps\24088287_091098_65\ref_24088287_091098_65.htm
+        ImageIndex=4
+      <</Node>>
+    <</Node>>
+    <<Node>>
+      Caption=Довідкові дані
+      Frame=contents
+      Url=
+      ImageIndex=0
+      <<Node>>
+        Caption=Довідкові дані
+        Frame=contents
+        Url=..\Documents\part4.htm
+        ImageIndex=5
+      <</Node>>
+      <<Node>>
+        Caption=Станції радіометричної мережі спостережень Гідрометеорологічної служби України
+        Frame=script
+        Url=..\Maps\24088287_091098_75\ref_24088287_091098_75.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Ґрунти
+        Frame=script
+        Url=..\Maps\24088287_091098_11\ref_24088287_091098_11.htm
+        ImageIndex=4
+      <</Node>>
+      <<Node>>
+        Caption=Зонування лісів за щільністю радіоактивного забруднення ґрунту цезієм-137
+        Frame=script
+        Url=..\Maps\24088287_091098_85\ref_24088287_091098_85.htm
+        ImageIndex=4
+      <</Node>>
+    <</Node>>
+    <<Node>>
+      Caption=Нормативно-правова база в галузі радіаційного захисту населення
+      Frame=contents
+      Url=..\Norms_Laws\Index.htm
+      ImageIndex=0
+      <<Node>>
+        Caption=Закони України
+        Frame=contents
+        Url=
+        ImageIndex=2
+        <<Node>>
+          Caption=Про правовий режим території, що зазнали радіоактивного забруднення внаслідок Чорнобильскої катастрофи
+          Frame=contents
+          Url=..\Norms_laws\Laws\Law1.htm
+          ImageIndex=5
+        <</Node>>
+        <<Node>>
+          Caption=Про статус і соціальний захист громадян, які постраждали внаслідок Чорнобильскої катастрофи
+          Frame=contents
+          Url=..\Norms_laws\Laws\Law2.htm
+          ImageIndex=5
+        <</Node>>
+        <<Node>>
+          Caption=Про забезпечення санітарного та епідемічного благополуччя населення
+          Frame=contents
+          Url=..\Norms_laws\Laws\Law3.htm
+          ImageIndex=5
+        <</Node>>
+        <<Node>>
+          Caption=Про використання ядерної енергії та радіаційну безпеку
+          Frame=contents
+          Url=..\Norms_laws\Laws\Law4.htm
+          ImageIndex=5
+        <</Node>>
+        <<Node>>
+          Caption=Про захист людини від впливу іонізуючих випромінювань
+          Frame=contents
+          Url=..\Norms_laws\Laws\Law5.htm
+          ImageIndex=5
+        <</Node>>
+        <<Node>>
+          Caption=Про віднесення деяких населених пунктів Волинської та Рівненської областей до зони гарантованого добровільного відселення
+          Frame=contents
+          Url=..\Norms_laws\Laws\Law6.htm
+          ImageIndex=5
+        <</Node>>
+        <<Node>>
+          Caption=Про Загальнодержавну програму подолання наслідків Чорнобильської катастрофи на 2006-2010 роки
+          Frame=contents
+          Url=..\Norms_laws\Laws\Law7.htm
+          ImageIndex=5
+        <</Node>>
+      <</Node>>
+      <<Node>>
+        Caption=Підзаконні документи
+        Frame=contents
+        Url=
+        ImageIndex=2
+        <<Node>>
+          Caption=Про Концепцію проживання населення на територіях Української РСР з підвищеними рівнями радіоактивного забруднення внаслідок Чорнобильської катастрофи
+          Frame=contents
+          Url=..\Norms_laws\Norms\Norm1.htm
+          ImageIndex=5
+        <</Node>>
+        <<Node>>
+          Caption=Про Положення про Національну комісію з радіаційного захисту населення України
+          Frame=contents
+          Url=..\Norms_laws\Norms\Norm2.htm
+          ImageIndex=5
+        <</Node>>
+        <<Node>>
+          Caption=Про організацію виконання постанов Верховної Ради Української РСР про порядок введення в дію законів Української РСР "Про правовий режим території, що зазнала радіоактивного забруднення внаслідок Чорнобильської катастрофи" та "Про статус і соціальний захист громадян, які постраждали внаслідок чорнобильської катастрофи"
+          Frame=contents
+          Url=..\Norms_laws\Norms\Norm3.htm
+          ImageIndex=5
+        <</Node>>
+        <<Node>>
+          Caption=Норми радіаційної безпеки України (НРБУ-97)
+          Frame=contents
+          Url=..\Norms_laws\Norms\Norm4\Nrsu_97\Title.htm
+          ImageIndex=5
+        <</Node>>
+        <<Node>>
+          Caption=Норми радіаційної безпеки України (НРБУ-97/Д-2000)
+          Frame=contents
+          Url=..\Norms_laws\Norms\Norm5\Nrsu_97d_2000\Title.htm
+          ImageIndex=5
+        <</Node>>
+        <<Node>>
+          Caption=Про затвердження державних санітарних правил "Основні санітарні правила забезпечення радіаційної безпеки України"
+          Frame=contents
+          Url=..\Norms_laws\Norms\Norm6.htm
+          ImageIndex=5
+        <</Node>>
+        <<Node>>
+          Caption=Про затвердження Державних гігієнічних нормативів "Допустимі рівні вмісту радіонуклідів 137Cs та 90Sr у продуктах харчування та питній воді"
+          Frame=contents
+          Url=..\Norms_laws\Norms\Norm7.htm
+          ImageIndex=5
+        <</Node>>
+      <</Node>>
+    <</Node>>
+    <<Node>>
+      Caption=Допомога
+      Frame=contents
+      Url=
+      ImageIndex=0
+      <<Node>>
+        Caption=Робота з Атласом
+        Frame=contents
+        Url=
+        ImageIndex=2
+        <<Node>>
+          Caption=Зміст
+          Frame=contents
+          Url=..\help\help_index.htm
+          ImageIndex=2
+          <<Node>>
+            Caption=Перелік термінів
+            Frame=contents
+            Url=..\help\01.htm
+            ImageIndex=5
+          <</Node>>
+          <<Node>>
+            Caption=Коротко про цифрову картографію
+            Frame=contents
+            Url=..\help\02.htm
+            ImageIndex=5
+          <</Node>>
+          <<Node>>
+            Caption=Системна інформація
+            Frame=contents
+            Url=..\help\03.htm
+            ImageIndex=5
+          <</Node>>
+          <<Node>>
+            Caption=Робота з CD. Загальні функції
+            Frame=contents
+            Url=..\help\04.htm
+            ImageIndex=5
+          <</Node>>
+          <<Node>>
+            Caption=Робота з CD. Функції роботи з картами
+            Frame=contents
+            Url=..\help\05.htm
+            ImageIndex=5
+          <</Node>>
+          <<Node>>
+            Caption=Можливі проблеми та їх усунення
+            Frame=contents
+            Url=..\help\06.htm
+            ImageIndex=5
+          <</Node>>
+        <</Node>>
+      <</Node>>
+      <<Node>>
+        Caption=Інформація про розробника
+        Frame=contents
+        Url=
+        ImageIndex=2
+        <<Node>>
+          Caption=Міністерство України з питань надзвичайних ситуацій та у справах захисту населення від наслідків Чорнобильської катастрофи
+          Frame=contents
+          Url=..\Documents\about_mns.htm
+          ImageIndex=5
+        <</Node>>
+        <<Node>>
+          Caption=Інтелектуальні Системи ГЕО
+          Frame=contents
+          Url=..\Documents\about_isgeo.htm
+          ImageIndex=5
+        <</Node>>
+      <</Node>>
+    <</Node>>
+  <</Tree>>
+  <<Images>>
+    <<Image>>
+      FileName=Images\1.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\2.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\3.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\4.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\5.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\6.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\7.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\1.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\2.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\3.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\4.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\5.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\6.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\7.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\1.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\2.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\3.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\4.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\5.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\6.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\7.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\1.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\2.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\3.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\4.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\5.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\6.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\7.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\1.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\2.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\3.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\4.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\5.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\6.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\7.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\1.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\2.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\3.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\4.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\5.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\6.bmp
+    <</Image>>
+    <<Image>>
+      FileName=Images\7.bmp
+    <</Image>>
+  <</Images>>
+  <<Font>>
+    Name=Arial
+    Height=-13
+    Style.Bold=0
+    Style.Italic=0
+    Style.Underline=0
+    Style.Strikeout=0
+    Charset=204
+    Color=65906
+  <</Font>>
+  <<Colors>>
+    Color=15923711
+  <</Colors>>
+<</Root>>

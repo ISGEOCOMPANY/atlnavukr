@@ -1,0 +1,50 @@
+<html>
+
+<head>
+<title>Україна. Радіоактивне забруднення. Видання друге, доповнене</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="Назва продукту" content="">
+<meta name="Фірма розробник" content="ТОВ Інтелектуальні Системи ГЕО">
+<link REL="STYLESHEET" HREF="Style/Style.css">
+<style>
+<!--
+body.toc { border-left: 1px solid rgb(0,0,255)}
+-->
+</style>
+<!--////////////////  scripts   ///////////////////////-->
+<SCRIPT ID=clientEventHandlersJS LANGUAGE=javascript>
+<!--
+
+function TreeViewAtlas1_OnChange(aFrame, aUrl) {
+  if (aUrl != "") {
+  parent.frames[aFrame].navigate( aUrl ) 
+  }
+}
+
+function window_onload() {
+window.status = "РадАтлас";
+  var l_strPath = location.href;
+  var lNameDoc = "toc.htm";
+  l_strPath = l_strPath.substring( l_strPath.length - lNameDoc.length, 0 );
+  toc.SetConfig( l_strPath + "toc.hhc" );
+}
+
+//-->
+</SCRIPT>
+</SCRIPT>
+<SCRIPT LANGUAGE=javascript FOR=toc EVENT="OnChange( aFrame, aUrl)">
+<!--
+ TreeViewAtlas1_OnChange(aFrame, aUrl)
+//-->
+</SCRIPT>
+
+<!--///////////// end of scripts //////////////////////-->
+
+</head>
+<body LANGUAGE=javascript onload="return window_onload()" topmargin="0" leftmargin="0" scroll="no" class="toc"><!-- -->
+<p style="margin-top: 0px; margin-bottom: 0px; text-indent: 0pt">
+<object id="toc" type="application/x-oleobject" classid=clsid:529A26AF-8CA4-46B1-91C1-B73F45F8F7D5 width="100%" height="100%">
+</object>
+</p>
+</body>
+</html>

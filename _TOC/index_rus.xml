@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xmlTree.xsl"?>
+<Root>
+    <Tree treeText="Украина. Радиоактивное загрязнение" treeDescription="Версия издания 2011 р.">
+    <branch id="b00">
+      <branchText>Вступление</branchText>
+      <branchDescription></branchDescription>
+      <link></link>
+      <Frame>contents</Frame>
+      <ImageIndex>1</ImageIndex>
+      <leaf>
+        <leafText>Редакционная коллегия</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>12</ImageIndex>
+      </leaf>
+	  <leaf>
+        <leafText>Предисловие</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>12</ImageIndex>
+      </leaf>	
+      <leaf>
+        <leafText>Содержание</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>12</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Термины и сокращения</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>12</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Литература</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>12</ImageIndex>
+      </leaf>
+	</branch>
+
+    <branch id="b01">
+      <branchText>Раздел I. Радиоактивное загрязнение территории Украины</branchText>
+      <branchDescription></branchDescription>
+      <link>test0</link>
+      <Frame>contents</Frame>
+      <ImageIndex>1</ImageIndex>
+      <leaf>
+        <leafText>Радиоактивное загрязнение территории Украины</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>12</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Загрязнение территории Украины цезием-137 (по состоянию на 1 июля 1985 года)</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Загрязнение территории Украины стронцием-90 (по состоянию на 1 июля 1985 года)</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Загрязнение территории Украины цезием-137 (по состоянию на 10 мая 1986 года)</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Загрязнение территории Украины цезием-137 (по состоянию на 10 мая 2011 года)</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Загрязнение территории Украины стронцием-90 (по состоянию на 10 мая 1986 года)</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Загрязнение территории Украины стронцием-90 (по состоянию на 10 мая 2011 года)</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Загрязнение территории Украины изотопами плутония</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Прогноз загрязнения территории Украины америцием-241 на 2056 год</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Загрязнение зоны отчуждения цезием-137 (по состоянию на 10 мая 1986 года)</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Загрязнение зоны отчуждения цезием-137 (по состоянию на 10 мая 2011 года)</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Загрязнение зоны отчуждения стронцием-90 (по состоянию на 10 мая 1986 года)</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Загрязнение зоны отчуждения стронцием-90 (по состоянию на 10 мая 2011 года)</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Загрязнение зоны отчуждения изотопами плутония</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Загрязнение зоны отчуждения америцием-241</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Прогноз загрязнения территории Украины америцием-241 на 2056 год</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Загрязнение территорий цезием-137 (по материалам аэрогаммасъемки). Город Коростень</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Загрязнение территорий цезием-137 (по материалам аэрогаммасъемки). Город Славутич</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Места захоронения радиоактивных отходов в зоне отчуждения</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+    </branch>
+
+    <branch id="b02">
+      <branchText>Раздел ІІ. Облучение населения и медицинские последствия Чернобыльской катастрофы </branchText>
+      <branchDescription></branchDescription>
+      <link></link>
+      <Frame>contents</Frame>
+      <ImageIndex>1</ImageIndex>
+      <leaf>
+        <leafText>Облучение населения и медицинские последствия Чернобыльской катастрофы</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>12</ImageIndex>
+      </leaf>
+
+      <branch id="b0101">
+        <branchText>Доза облучения щитовидной железы</branchText>
+        <branchDescription />
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+        <leaf>
+          <leafText>Доза облучения щитовидной железы. Первая возрастная группа (до 1 года на момент аварии)</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Доза облучения щитовидной железы. Вторая возрастная группа (от 1 года до 3 лет на момент аварии)</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Доза облучения щитовидной железы. Третья возрастная группа (от 4 до 7 лет на момент аварии)</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Доза облучения щитовидной железы. Четвертая возрастная группа (от 8 до 11 лет на момент аварии)</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Доза облучения щитовидной железы. Пятая возрастная группа (от 12 до 15 лет на момент аварии)</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Доза облучения щитовидной железы. Шестая возрастная группа (от 16 до 18 лет на момент аварии)</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Доза облучения щитовидной железы. Седьмая возрастная группа (старше 18 лет на момент аварии)</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+      </branch>
+
+	  <leaf>
+        <leafText>Содержание цезия-137 в молоке (среднегодовые значения для наиболее пострадавших районов, 1991-2005 годы) </leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Суммарные эффективные дозы внешнего и внутреннего (от радиоизотопов цезия, стронция и трансурановых элементов) облучения, рассчитанные на период 1986-2006 годов (20 лет после аварии) </leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Суммарные эффективные дозы внешнего и внутреннего (от радиоизотопов цезия, стронция и трансурановых элементов) облучения, рассчитанные на период 1986-2055 годы (70 лет после аварии) </leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Распространенность заболеваний среди взрослых и подростков 1, 2, 3 групп первичного учета</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Заболеваемость взрослых и подростков 1, 2, 3 групп первичного учета</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Распространенность заболеваний среди детей до 14 лет 2, 3, 4 групп первичного учета</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Заболеваемость детей до 14 лет 2, 3, 4 групп первичного учета</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+    </branch>
+
+    <branch id="b03">
+      <branchText>Раздел ІІІ. Социально-экономические последствия Чернобыльской катастрофы</branchText>
+      <branchDescription></branchDescription>
+      <link></link>
+      <Frame>contents</Frame>
+      <ImageIndex>1</ImageIndex>
+      <leaf>
+        <leafText>Социально-экономические последствия Чернобыльской катастрофы</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>12</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Плотность населения Украины</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Зонирование радиоактивно загрязненной территории Украины согласно действующих нормативно-правовых актов</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Проект зонирования радиоактивно загрязненной территории Украины по данным дозиметрической паспортизации</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Численность и состав граждан, имеющих статус пострадавших вследствие Чернобыльской катастрофы</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Оздоровление детей, пострадавших вследствие Чернобыльской катастрофы</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Миграции населения с загрязненных территорий</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Строительная программа по ликвидации последствий Чернобыльской катастрофы в 1996-2000 годах</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+    </branch>
+
+    <branch id="b04">
+      <branchText>Раздел ІV. Справочные данные</branchText>
+      <branchDescription></branchDescription>
+      <link></link>
+      <Frame>contents</Frame>
+      <ImageIndex>1</ImageIndex>
+      <leaf>
+        <leafText>Справочные данные</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>12</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Станции радиометрической сети наблюдений гидрометеорологической службы Украины</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Почвы</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Зонирование лесов по плотности радиоактивного загрязнения почвы цезием-137</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+    </branch>
+
+	<branch id="b05">
+      <branchText>Нормативно-правовая база в области радиационной защиты населения (на украинском языке)</branchText>
+      <branchDescription>Матеріали станом на 2009 р.</branchDescription>
+      <link></link>
+      <Frame>contents</Frame>
+      <ImageIndex>1</ImageIndex>
+
+
+      <branch id="b0501">
+        <branchText>Законы Украины</branchText>
+        <branchDescription />
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+        <leaf>
+          <leafText>Про правовий режим території, що зазнали радіоактивного забруднення внаслідок Чорнобильскої катастрофи</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Про статус і соціальний захист громадян, які постраждали внаслідок Чорнобильскої катастрофи</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Про забезпечення санітарного та епідемічного благополуччя населення</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Про використання ядерної енергії та радіаційну безпеку</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Про захист людини від впливу іонізуючих випромінювань</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Про віднесення деяких населених пунктів Волинської та Рівненської областей до зони гарантованого добровільного відселення</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Про Загальнодержавну програму подолання наслідків Чорнобильської катастрофи на 2006-2010 роки</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+      </branch>
+
+      <branch id="b0502">
+        <branchText>Подзаконные документы</branchText>
+        <branchDescription />
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+        <leaf>
+          <leafText>Про Концепцію проживання населення на територіях Української РСР з підвищеними рівнями радіоактивного забруднення внаслідок Чорнобильської катастрофи</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Про Положення про Національну комісію з радіаційного захисту населення України</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Про організацію виконання постанов Верховної Ради Української РСР про порядок введення в дію законів Української РСР "Про правовий режим території, що зазнала радіоактивного забруднення внаслідок Чорнобильської катастрофи" та "Про статус і соціальний захист громадян, які постраждали внаслідок чорнобильської катастрофи"</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Норми радіаційної безпеки України (НРБУ-97)</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Норми радіаційної безпеки України (НРБУ-97/Д-2000)</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Про затвердження державних санітарних правил "Основні санітарні правила забезпечення радіаційної безпеки України"</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Про затвердження Державних гігієнічних нормативів "Допустимі рівні вмісту радіонуклідів 137Cs та 90Sr у продуктах харчування та питній воді"</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+      </branch>
+
+    </branch>
+
+    <branch id="bs1">
+      <branchText>Помощь</branchText>
+      <branchDescription>Сервісна гілка, тому bs1</branchDescription>
+      <link></link>
+      <Frame>contents</Frame>
+      <ImageIndex>1</ImageIndex>
+      <leaf>
+        <leafText>Руководство пользователя</leafText>
+        <Description></Description>
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>24</ImageIndex>
+      </leaf>
+      <branch id="bs101">
+        <branchText>Информация о разработчиках</branchText>
+        <branchDescription />
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+        <leaf>
+          <leafText>Министерство чрезвычайных ситуаций Украины</leafText>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>ООО Интеллектуальные ГЕО</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Про Атлас</leafText>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+      </branch>
+    </branch>
+  </Tree>
+</Root>

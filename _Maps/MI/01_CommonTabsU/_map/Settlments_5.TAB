@@ -1,0 +1,10 @@
+!table
+!version 1050
+!charset WindowsCyrillic
+
+Definition Table
+  Type NATIVE Charset "WindowsCyrillic"
+  Fields 3
+    RwID Integer ;
+    SOATO_U Char (10) ;
+    UkrName Char (30) ;
