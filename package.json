@@ -1,0 +1,3 @@
+{
+  "deploy": "touch ./.nojekyll && main -d docs -t true"
+}

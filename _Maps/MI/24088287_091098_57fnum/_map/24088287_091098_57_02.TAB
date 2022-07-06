@@ -1,0 +1,11 @@
+!table
+!version 1050
+!charset WindowsCyrillic
+
+Definition Table
+  Type NATIVE Charset "WindowsCyrillic"
+  Fields 4
+    ID Integer ;
+    Structure Integer ;
+    SOATO_U Char (30) ;
+    Type Char (100) ;

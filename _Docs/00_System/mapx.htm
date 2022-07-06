@@ -1,0 +1,52 @@
+<html>
+
+<head>
+<title>Óêðà¿íà. Ðàä³îàêòèâíå çàáðóäíåííÿ. Âèäàííÿ äðóãå, äîïîâíåíå</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+
+
+
+<!--////////////////  scripts   ///////////////////////-->
+<script LANGUAGE="javascript">
+<!--
+window.onload = window_onload;
+function window_onload(){
+parent.frames['toc'].toc.syncURL('../...');
+}
+//-->
+	</script>
+<script LANGUAGE="JavaScript">
+
+function OnLoad() {
+	parent.Register (self.name, "map_IsLoaded");
+        parent.InitiateMapX();
+	return;
+}
+function OnUnLoad() {
+	parent.UnRegisterFrame(self.name);
+	m_pwInfo = null;
+}
+
+window.onload=OnLoad;
+window.onunload=OnUnLoad;
+
+</script>
+<script LANGUAGE="JavaScript" src="Script/initmap1.js">
+</script>
+<!--///////////// end of scripts //////////////////////-->
+
+
+
+
+</head>
+
+<body topmargin="0" leftmargin="0" scroll="no">
+
+<p style="text-indent: 0pt">
+<object classid="clsid:3F59B68B-F308-42C6-8E2B-BC769FA8976B" id="mapxmap" width="100%" height="100%">
+</object>
+
+</p>
+
+</body>

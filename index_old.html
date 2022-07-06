@@ -1,0 +1,82 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>RadAtlas</title>
+<link rel="stylesheet" href="stylesheet.css"/>
+<script type="text/javascript" src="js/jquery-1.2.3.js"></script>
+<script type="text/javascript" src="js/jquery.cookie.js"></script>
+<script type="text/javascript" src="js/jquery.treeview.js"></script>
+</head>
+<body>
+<div id="header">
+    <a href="http://dev-comua.isgeo.kiev.ua/node/128"><img src="logo.png" width="393" height="89" /></a>
+<div/>
+
+<div id="line">
+&nbsp;
+</div>
+
+<div style="float:left; width: 300px; font-family: arial; font-size: 12px;">
+	<ul id="browser" class="filetree">
+		<li class="closed"><span class="folder">ВСТУП</span>
+			<ul>
+				<li><span class="file">Україна з Космосу (Нац. Атлас 1)</span></li>
+				<li><span class="file">Україна з Космосу (2014)</span></li>
+				<li><span class="file">Історико-культурні пам'ятки загальнодержавного значення (Нац. Атлас 2)</span></li>
+				<li><span class="file">Легенда. Історико-культурні пам'ятки загальнодержавного значення (Нац. Атлас 2)</span></li>
+				<li><span class="file">Україна. Адміністративно-територіальний устрій (Нац. Атлас 1)</span></li>
+                <li><span class="file">Україна. Адміністративно-територіальний устрій (Нац. Атлас 2)</span></li>
+                <li><span class="file">Україна. Адміністративно-територіальний устрій (2014)</span></li>
+			</ul>
+		</li>
+		<li class="closed"><span class="folder">ПЕРЕДУМОВИ ПОТЕНЦІЙНИХ ВИТОКІВ НАДЗВИЧАЙНИХ СИТУАЦІЙ</span>
+			<ul>
+				<li class="closed"><span class="folder">Соціально-економічний стан</span>
+                <li class="closed"><span class="folder">Забрудненість території внаслідок аварії на ЧАЕС</span>
+					<ul id="folder21">
+						<li><span class="file">Забруднення території України цезієм-137 (станом на 10.05.2011 р.)</span></li>
+						<li><span class="file">Забруднення території України стронцієм-90 (станом на 10.05.2011 р.)</span></li>
+						<li><span class="file">Забруднення території України ізотопами плутонію</span></li>
+						<li><span class="file">Забруднення території України америцієм-241 (прогноз на 2056 р.)</span></li>
+						<li><span class="file">Базова карта</span></li>
+						<li><span class="file">Структура сільськогосподарських угідь (рілля, сіножаті і пасовища, інші)</span></li>
+						<li><span class="file">Плутоний</span></li>
+                        <li><span class="file">Машап</span></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li class="closed"><span class="folder">НЕБЕЗПЕКА МОЖЛИВОГО ПОГІРШЕННЯ УМОВ ПРОЖИВАННЯ НАСЕЛЕННЯ І РОБОТИ ПІДПРИЄМСТВ</span>
+			<ul>
+				<li class="closed"><span class="folder">Розділ ІІІ. Соціальні небезпеки та ризики</span>
+					<ul id="folder21">
+						<li class="closed"><span class="folder">Розділ ІІІ. Соціальні небезпеки та ризики</span>
+                        	<ul id="folder21">
+                                <li><span class="file">Густота населення 1989 р. (Нац. Атлас 2)</span></li>
+                                <li><span class="file">Густота населення 2014</span></li>
+                                <li><span class="file">Міське населення</span></li>
+                                <li><span class="file">Розселення міського населення</span></li>
+                                <li><span class="file">Розселення сільського населення</span></li>
+                            </ul>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li><span class="file">File 4</span></li>
+	</ul>
+</div>
+    <img id="map" src="Oblastd.svg"/>
+<script type="text/javascript">
+$(document).ready(function(){
+// ---- TREE -----
+$("#browser").treeview();
+$("#navigation").treeview({
+  persist: "location",
+  collapsed: true,
+  unique: true
+});
+// ---- TREE -----
+});
+</script>
+</body>
+</html>

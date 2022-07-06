@@ -1,0 +1,254 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru" xml:lang="ru">
+<head>
+<title>Построение пользовательских интерфейсов на основе библиотеки jQuery</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="author" content="Gennady A. Samkov" />
+<meta name="email" content="smkv@mail.ru" />
+<meta name="domain" content="linkexchanger.su" />
+<meta name="robots" content="noindex" />
+<script type="text/javascript" src="js/jquery-1.2.3.js"></script>
+<script type="text/javascript" src="js/jquery.cookie.js"></script>
+<script type="text/javascript" src="js/jquery.treeview.js"></script>
+ <style type="text/css">
+html, body {
+    background-color:#fff;
+    font-family: "Trebuchet MS", Tahoma, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+}
+#ex1 {
+    float:left;
+    width:200px;
+}
+#ex2 {
+    float:left;
+    width:130px;
+    padding-left:5px;
+    margin-left:5px;
+}
+/* ------------ treeview ---------- */
+.treeview, .treeview ul { 
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.treeview ul {
+	background-color: #fff;
+	margin-top: 4px;
+}
+
+.treeview .hitarea {
+	background: url(treeview_img/treeview-default.gif) -64px -25px no-repeat;
+	height: 16px;
+	width: 16px;
+	margin-left: -16px;
+	float: left;
+	cursor: pointer;
+}
+/* fix for IE6 */
+* html .hitarea {
+	display: inline;
+	float:none;
+}
+
+.treeview li { 
+	margin: 0;
+	padding: 3px 0pt 3px 16px;
+}
+
+.treeview a.selected {
+	background-color: #eee;
+}
+
+#treecontrol { margin: 1em 0; display: none; }
+
+.treeview .hover { color: red; cursor: pointer; }
+
+.treeview li { background: url(treeview_img/treeview-default-line.gif) 0 0 no-repeat; }
+.treeview li.collapsable, .treeview li.expandable { background-position: 0 -176px; }
+
+.treeview .expandable-hitarea { background-position: -80px -3px; }
+
+.treeview li.last { background-position: 0 -1766px }
+.treeview li.lastCollapsable, .treeview li.lastExpandable { background-image: url(treeview_img/treeview-default.gif); }  
+.treeview li.lastCollapsable { background-position: 0 -111px }
+.treeview li.lastExpandable { background-position: -32px -67px }
+
+.treeview div.lastCollapsable-hitarea, .treeview div.lastExpandable-hitarea { background-position: 0; }
+
+.treeview-red li { background-image: url(treeview_img/treeview-red-line.gif); }
+.treeview-red .hitarea, .treeview-red li.lastCollapsable, .treeview-red li.lastExpandable { background-image: url(treeview_img/treeview-red.gif); } 
+
+.treeview-black li { background-image: url(treeview_img/treeview-black-line.gif); }
+.treeview-black .hitarea, .treeview-black li.lastCollapsable, .treeview-black li.lastExpandable { background-image: url(treeview_img/treeview-black.gif); }  
+
+.treeview-gray li { background-image: url(treeview_img/treeview-gray-line.gif); }
+.treeview-gray .hitarea, .treeview-gray li.lastCollapsable, .treeview-gray li.lastExpandable { background-image: url(treeview_img/treeview-gray.gif); } 
+
+.treeview-famfamfam li { background-image: url(treeview_img/treeview-famfamfam-line.gif); }
+.treeview-famfamfam .hitarea, .treeview-famfamfam li.lastCollapsable, .treeview-famfamfam li.lastExpandable { background-image: url(treeview_img/treeview-famfamfam.gif); } 
+
+
+.filetree li { padding: 3px 0 2px 16px; }
+.filetree span.folder, .filetree span.file { padding: 1px 0 1px 20px; display: block; }
+.filetree span.folder { background: url(treeview_img/folder.gif) 0 0 no-repeat; }
+.filetree li.expandable span.folder { background: url(treeview_img/folder-closed.gif) 0 0 no-repeat; }
+.filetree span.file { background: url(treeview_img/file.gif) 0 0 no-repeat; }
+/* ------------ treeview ---------- */
+</style>
+</head>
+<body>
+<!-- css и javascript-коды специально размещены непосредственно на странице. -->
+
+<div id="ex1">
+	<ul id="browser" class="filetree">
+		<li><span class="folder">Folder 1</span>
+			<ul>
+				<li><span class="file">Item 1.1</span></li>
+				<li><span class="file">Item 1.2</span></li>
+				<li><span class="file">Item 1.3</span></li>
+				<li><span class="file">Item 1.4</span></li>
+				<li><span class="file">Item 1.5</span></li>
+			</ul>
+		</li>
+		<li class="closed"><span class="folder">Folder 2</span>
+			<ul>
+				<li><span class="folder">Subfolder 2.1</span>
+					<ul id="folder21">
+						<li><span class="file">File 2.1.1</span></li>
+						<li><span class="file">File 2.1.2</span></li>
+						<li><span class="file">File 2.1.3</span></li>
+						<li><span class="file">File 2.1.4</span></li>
+						<li><span class="file">File 2.1.5</span></li>
+						<li><span class="file">File 2.1.6</span></li>
+						<li><span class="file">File 2.1.7</span></li>
+					</ul>
+				</li>
+				<li><span class="file">File 2.2</span></li>
+			</ul>
+		</li>
+		<li class="closed"><span class="folder">Folder 3</span>
+			<ul>
+				<li><span class="file">File 3.1</span></li>
+				<li><span class="file">File 3.2</span></li>
+				<li><span class="file">File 3.3</span></li>
+				<li><span class="file">File 3.4</span></li>
+			</ul>
+		</li>
+		<li><span class="file">File 4</span></li>
+	</ul>
+</div>
+<!--div id="ex2">
+	<ul id="navigation">
+		<li><a href="?1">Item 1</a>
+			<ul>
+				<li><a href="?1.0">Item 1.0</a>
+					<ul>
+						<li><a href="?1.0.0">Item 1.0.0</a></li>
+					</ul>
+				</li>
+				<li><a href="?1.1">Item 1.1</a></li>
+				<li><a href="?1.2">Item 1.2</a>
+					<ul>
+						<li><a href="?1.2.0">Item 1.2.0</a>
+						<ul>
+							<li><a href="?1.2.0.0">Item 1.2.0.0</a></li>
+							<li><a href="?1.2.0.1">Item 1.2.0.1</a></li>
+							<li><a href="?1.2.0.2">Item 1.2.0.2</a></li>
+						</ul>
+					</li>
+						<li><a href="?1.2.1">Item 1.2.1</a>
+						<ul>
+							<li><a href="?1.2.1.0">Item 1.2.1.0</a></li>
+						</ul>
+					</li>
+						<li><a href="?1.2.2">Item 1.2.2</a>
+						<ul>
+							<li><a href="?1.2.2.0">Item 1.2.2.0</a></li>
+							<li><a href="?1.2.2.1">Item 1.2.2.1</a></li>
+							<li><a href="?1.2.2.2">Item 1.2.2.2</a></li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li><a href="?2">Item 2</a>
+			<ul>
+				<li><span>Item 2.0</span>
+					<ul>
+						<li><a href="?2.0.0">Item 2.0.0</a>
+						<ul>
+							<li><a href="?2.0.0.0">Item 2.0.0.0</a></li>
+							<li><a href="?2.0.0.1">Item 2.0.0.1</a></li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				<li><a href="?2.1">Item 2.1</a>
+					<ul>
+						<li><a href="?2.1.0">Item 2.1.0</a>
+						<ul>
+							<li><a href="?2.1.0.0">Item 2.1.0.0</a></li>
+						</ul>
+					</li>
+						<li><a href="?2.1.1">Item 2.1.1</a>
+						<ul>
+							<li><a href="?2.1.1.0abc">Item 2.1.1.0</a></li>
+							<li><a href="?2.1.1.1">Item 2.1.1.1</a></li>
+							<li><a href="?2.1.1.2">Item 2.1.1.2</a></li>
+						</ul>
+					</li>
+						<li><a href="?2.1.2">Item 2.1.2</a>
+						<ul>
+							<li><a href="?2.1.2.0">Item 2.1.2.0</a></li>
+							<li><a href="?2.1.2.1">Item 2.1.2.1</a></li>
+							<li><a href="?2.1.2.2">Item 2.1.2.2</a></li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li><a href="?3">Item 3</a>
+			<ul>
+				<li class="open"><a href="?3.0">Item 3.0</a>
+					<ul>
+						<li><a href="?3.0.0">Item 3.0.0</a></li>
+						<li><a href="?3.0.1">Item 3.0.1</a>
+							<ul>
+								<li><a href="?3.0.1.0">Item 3.0.1.0</a></li>
+								<li><a href="?3.0.1.1">Item 3.0.1.1</a></li>
+							</ul>
+						</li>
+						<li><a href="?3.0.2">Item 3.0.2</a>
+							<ul>
+								<li><a href="?3.0.2.0">Item 3.0.2.0</a></li>
+								<li><a href="?3.0.2.1">Item 3.0.2.1</a></li>
+								<li><a href="?3.0.2.2">Item 3.0.2.2</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+	</ul>
+</div>-->
+
+<script type="text/javascript">
+$(document).ready(function(){
+// ---- TREE -----
+$("#browser").treeview();
+$("#navigation").treeview({
+  persist: "location",
+  collapsed: true,
+  unique: true
+});
+// ---- TREE -----
+});
+</script>
+</body>
+</html>

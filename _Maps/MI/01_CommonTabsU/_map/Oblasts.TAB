@@ -1,0 +1,13 @@
+!table
+!version 1050
+!charset WindowsCyrillic
+
+Definition Table
+  Type NATIVE Charset "WindowsCyrillic"
+  Fields 6
+    RwID Integer ;
+    SOATO_U Char (10) ;
+    UkrName Char (60) ;
+    Popul97 Float ;
+    UrbanPopul97 Float ;
+    RuralPopul97 Float ;

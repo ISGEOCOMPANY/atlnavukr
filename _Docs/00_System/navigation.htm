@@ -1,0 +1,89 @@
+<html>
+
+<head>
+<meta name="Назва продукту" content="Україна. Радіоактивне забруднення. Видання друге, доповнене">
+<meta name="Розробник" content="МНС України, ТОВ Інтелектуальні Системи ГЕО, 2002, 2008">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<title>navigation</title>
+<script LANGUAGE="JavaScript" FOR="btn_back" EVENT="onclick()">
+//<!--
+parent.window.history.back()
+//-->
+    </script><script LANGUAGE="JavaScript" FOR="btn_next" EVENT="onclick()">
+<!--
+parent.window.history.forward()
+//-->
+</script><script language="JavaScript">
+function change(x,y) { if (document.images)
+document.images[x].src=eval(y+".src"); };
+Pimage1=new Image();
+Pimage1.src = "../00_System/images/navb_03.gif";
+Aimage1=new Image();
+Aimage1.src = "../00_System/images/navb_o_03.gif";
+Pimage2=new Image();
+Pimage2.src = "../00_System/images/navb_04.gif";
+Aimage2=new Image();
+Aimage2.src = "../00_System/images/navb_o_04.gif";
+Pimage3=new Image();
+Pimage3.src = "../00_System/images/navb_05.gif";
+Aimage3=new Image();
+Aimage3.src = "../00_System/images/navb_o_05.gif";
+</script><script LANGUAGE="javascript">
+<!--
+function toc_resize()
+{
+var maxsize = '275,*';
+var minsize = '25,*';
+var nextsize;
+	nextsize = parent.toc_contents.cols;
+	if (nextsize == maxsize)
+	nextsize = minsize;
+	else
+	nextsize = maxsize;
+        parent.toc_contents.cols = nextsize;
+}
+//-->
+</script>
+<base target="contents">
+<link rel="stylesheet" type="text/css" href="Style/style.css">
+</head>
+
+<body topmargin="0" leftmargin="0" bgcolor="#F2E7DB" style="padding: 0" scroll="no">
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="Images/Nav_01.gif" width="300" height="75"></td>
+    <td width="100%" background="Images/Nav_02.gif" align="center">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td id="mapname" align="center"></td>
+      </tr>
+    </table>
+    </td>
+    <td width="60"><a href="javascript:;" onclick="toc_resize()"><img src="Images/Nav_03.gif" border="0" width="60" height="75"></a></td>
+  </tr>
+</table>
+<p><span style="position: absolute; left: 12; top: 13; z-index: 254"><img border="0" src="Images/Atlas_name.gif" width="228" height="56"></span> </p>
+<div style="position: absolute; top: 8; left: 117; width: 127; height: 43; z-index: 255">
+  <table border="0">
+    <tr>
+      <td><a href="javascript:parent.frames['contents'].history.back()" target="contents" onmousedown="change('but1','Aimage1')" onmouseout="change('but1','Pimage1')"><img src="Images/Navb_03.gif" name="but1" border="0" width="35" height="30"></a></td>
+      <td><a href="welcome.htm" target="contents" onmousedown="change('but2','Aimage2')" onmouseout="change('but2','Pimage2')"><img src="Images/Navb_04.gif" name="but2" border="0" alt="Головна сторінка" width="35" height="30"></a></td>
+      <td><a href="javascript:parent.frames['contents'].history.forward()" target="contents" onmousedown="change('but3','Aimage3')" onmouseout="change('but3','Pimage3')"><img src="Images/Navb_05.gif" name="but3" border="0" width="35" height="30"></a></td>
+    </tr>
+  </table>
+</div>
+
+</body>
+
+<script LANGUAGE="javascript">
+<!--
+window.onload = showFon;
+function showFon()
+{
+parent.frames['contents'].location = "Welcome.htm"
+}
+//-->
+</script>
+
+</html>

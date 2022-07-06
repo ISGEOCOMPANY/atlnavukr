@@ -1,0 +1,8 @@
+!table
+!version 1050
+!charset WindowsCyrillic
+
+Definition Table
+  Type NATIVE Charset "WindowsCyrillic"
+  Fields 1
+    RwID Integer ;

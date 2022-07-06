@@ -1,0 +1,31 @@
+/*======================================*/
+body { scrollbar-face-color: #E7CEAD; scrollbar-shadow-color: #E7BDA5; 
+scrollbar-highlight-color: #E7BDA5; scrollbar-3dlight-color: #FFFFF7; 
+scrollbar-darkshadow-color: #944231; scrollbar-track-color: #E7BDA5; 
+scrollbar-arrow-color: #9C0808 }
+body, td, th, p, b, i, ul, ol, li { font-family: Arial; font-size: 10pt; color: #000000;}
+.law_txt {FONT-SIZE: 14px; FONT-FAMILY: Courier New; text-align:justify}
+body         { background-color: #FFFFF7; background-image: url('../../00_System/Images/Screen_002-copy_03.gif'); 
+background-repeat: repeat-y; background-attachment: fixed; padding-left: 0; padding-right: 30; padding-top: 0; 
+padding-bottom: 0; background-position: right top }
+BODY.toc { BORDER-RIGHT: #f3ebad 0px solid; background-image: url('../../00_System/Images/Screen_002-copy_Toc.gif'); background-repeat: repeat-y; background-attachment: fixed; padding-right: 4; background-position: right top	COLOR: black;}
+/*======================================*/
+h1           { font-family: Arial, 'Times New Roman', Times; font-size: 13pt; color: #CC0000; text-transform: uppercase; font-weight: bold }
+h2           { font-family: Arial, 'Times New Roman', Times; font-size: 14px; color: #660033; text-transform: uppercase; font-weight: bold }
+h3           { font-family: Arial, 'Times New Roman', Times; font-size: 15px; color: #333333; font-weight: bold }
+h4           { font-family: Arial, 'Times New Roman', Times; font-size: 13px; color: #333333; font-weight: bold }
+h5           { font-family: Arial, 'Times New Roman', Times; font-size: 12px; color: #000000; font-weight: bold }
+h6           { font-family: Arial, 'Times New Roman', Times; font-size: 11px; color: #000000; font-weight: bold }
+/*======================================*/
+/* sup, sub          { color: #FF0000; font-weight: bold } */
+pre, #pre    { font-family: Lucida Console; font-size: 9pt }
+a            { color: #993333; text-decoration: none; }
+a:hover      { color: #CC0000; text-decoration: underline }
+ol li, ul li { margin-top: 5 }
+table.small tr td, table.small tr td p { font-size: 11px; background-color: #FFFFFF;}
+table.small tr th, table.small tr th p { font-size: 11px; background-color: #E6E6E6;}
+#mapname     { font-family: Arial ; font-size: 14px; color: #CC0000; text-transform: uppercase; font-weight: bold }
+/* Old MapName
+#mapname     { font-family: Arial ; font-size: 14px; color: #CC0000; font-variant: small-caps; text-transform: uppercase; font-weight: bold }*/
+#black, #black ul li b a, #black ul li a             { color: #000000 }
+.c, .c p     { font-family: Tahoma; font-size: 10px; color: #808080 }td.symbol    { font-family: NatAtlas Symbol; font-size: 18pt }

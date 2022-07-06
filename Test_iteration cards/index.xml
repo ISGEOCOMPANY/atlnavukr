@@ -1,0 +1,1234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xmlTree.xsl"?>
+<Root>
+  <Tree treeText="Дерево Атласу природних, техногенних і соціальних небезпек виникнення надзвичайних ситуацій в Україні (АтласуНС-К)" treeDescription="З файлу AtlasEmrg_TOC_20140404.doc">
+    <branch id="b00">
+      <branchText>ВСТУП</branchText>
+      <branchDescription>В.Ч. Можливо, буде документ</branchDescription>
+      <link>test0</link>
+      <Frame>contents</Frame>
+      <ImageIndex>1</ImageIndex>
+      <leaf>
+        <leafText>Приклад з SVG файлом</leafText>
+        <Description>Приклад з інтернету: Рисунок інтерактивний.</Description>
+        <link>Oblastd_.svg</link>
+        <Frame>script</Frame>
+        <ImageIndex>12</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Україна з Космосу</leafText>
+        <Description>Катя Поливач: Рисунок в кривих. В.Ч.: Ця карта є в 2000НА. Намагаємося використати. Вона растрова</Description>
+        <link>../../MapsEA/24088287_050499_1/ref_24088287_050499_1.htm</link>
+        <Frame>script</Frame>
+        <ImageIndex>10</ImageIndex>
+      </leaf>
+      <leaf>
+        <leafText>Україна. Адміністративно-територіальний устрій</leafText>
+        <Description>В.Ч. Також є в 2000НА. Спробуємо використати. Вона векторна.</Description>
+        <link>../../MapsEA/24088287_050499_2/ref_24088287_050499_2.htm</link>
+        <Frame>script</Frame>
+        <ImageIndex>11</ImageIndex>
+      </leaf>
+    </branch>
+    <branch id="b01">
+      <branchText>ПЕРЕДУМОВИ ПОТЕНЦІЙНИХ ВИТОКІВ НАДЗВИЧАЙНИХ СИТУАЦІЙ</branchText>
+      <branchDescription />
+      <link></link>
+      <Frame>contents</Frame>
+      <ImageIndex>1</ImageIndex>
+      <branch id="b0101">
+        <branchText>Природні умови</branchText>
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+        <leaf>
+          <leafText>Фізична поверхня</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame></Frame>
+          <ImageIndex>9</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Гідрографічна мережа</leafText>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>9</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Клімат</leafText>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>9</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Рослинність</leafText>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>9</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Основні родовища корисних копалин</leafText>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>9</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Стан сучасних ландшафтів</leafText>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>9</ImageIndex>
+        </leaf>
+      </branch>
+      <branch id="b0102">
+        <branchText>Соціально-економічний стан</branchText>
+        <branchDescription />
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+        <leaf>
+          <leafText>Поселенська освоєність території</leafText>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>9</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Промислова освоєність території</leafText>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>9</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Сільськогосподарська освоєність території</leafText>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>9</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Транспортна освоєність території</leafText>
+          <Frame>script</Frame>
+          <link></link>
+          <ImageIndex>9</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Потенційно небезпечні об’єкти. Загальна характеристика</leafText>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>9</ImageIndex>
+        </leaf>
+      </branch>
+      <branch id="b0103">
+        <branchText>Забрудненість території внаслідок аварії на ЧАЕС</branchText>
+        <branchDescription />
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+        <leaf>
+          <leafText>Забруднення території України цезієм-137 (станом на 10.05.2011 р.)</leafText>
+          <Description>В.Ч. Задля тесту посилання на карту цезія сайту проекту ICRIN. Працює</Description>
+          <link>http://chernobyl.info/en-US/Home/Radioecological-Information/Maps/map/106_en.aspx</link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Забруднення території України стронцієм-90 (станом на 10.05.2011 р.)</leafText>
+          <Description>В.Ч. Задля тесту посилання на карту стронція сайту проекту ICRIN. Працює</Description>
+          <link>http://chernobyl.info/en-US/Home/Radioecological-Information/Maps/map/108_en.aspx</link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Забруднення території України ізотопами плутонію</leafText>
+          <Description>В.Ч. 28-кві-14 спробував підставити посилання на карту. В лоб не спрацювало.</Description>
+          <link>..\..\Maps\24088287_091098_20\ref_24088287_091098_20.htm</link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Забруднення території України америцієм-241 (прогноз на 2056 р.)</leafText>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>11</ImageIndex>
+        </leaf>
+      </branch>
+    </branch>
+    <branch id="b02">
+      <branchText>НЕБЕЗПЕКА МОЖЛИВОГО ПОГІРШЕННЯ УМОВ ПРОЖИВАННЯ НАСЕЛЕННЯ І РОБОТИ ПІДПРИЄМСТВ</branchText>
+      <branchDescription />
+      <link></link>
+      <Frame>contents</Frame>
+      <ImageIndex>1</ImageIndex>
+      <branch id="b0201">
+        <branchText>Розділ I. Природні небезпеки та ризики</branchText>
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+        <branch id="b020101">
+          <branchText>1.1. зумовлені процесами на поверхні суші</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Небезпека сейсмічних впливів</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Небезпека гравітаційних процесів</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Небезпеки, пов’язані з розломами</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Небезпека розвитку екзогенних геологічних процесів</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Небезпека підтоплення</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Небезпека карстових провалів</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Небезпека паводків та водопілля</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Небезпека паводків та водопілля. Українські Карпати</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Небезпека паводків та водопілля. Кримські гори</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Небезпека селів. Українські Карпати</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Небезпека селів. Кримські гори</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Небезпека снігових лавин. Українські Карпати</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Небезпека снігових лавин. Кримські гори</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Небезпека штормового хвилювання та штормових вітрів у портах Чорного та Азовського морів</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+        <branch id="b020102">
+          <branchText>1.2. зумовлені несприятливими метеорологічними явищами</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Хуртовина</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Ожеледь</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Ожеледь - діаметр ожеледі</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Дуже сильний дощ (30 мм і більше за 12 годин та менше часу)</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Дуже сильний дощ (50 мм і більше за 12 годин та менше часу)</leafText>
+            <Description>В.Ч.: Чому одинакові назви небезпеки з попереднім елементом?</Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Сильна злива (30 мм і більше за 1 годину та менше часу)</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Град</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Дуже сильний снігопад</leafText>
+            <link></link>
+            <Frame>contents</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Сильне налипання мокрого снігу</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Сильний туман</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Гроза та шквал</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Смерч і сильний вітер</leafText>
+            <Description>В.Ч. Для тестування використовується карта 'Повторюваність вітру зі швидкістю 2-5 м/с (спричинює найбільшу забруднюваність атмосферного повітря від більшості стаціонарних джерел викидів)' 2007НА</Description>
+            <link>..\..\MapsEA\6005\ref_6005.htm</link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Пилова буря та сильний вітер</leafText>
+            <Description>В.Ч. Для тестування використовується карта 'Повторюваність вітру зі швидкістю 2-5 м/с (спричинює найбільшу забруднюваність атмосферного повітря від більшості стаціонарних джерел викидів)' 2007НА. Посилання на файл SWF з картою</Description>
+            <link>..\..\MapsEA\6005\6005_map.swf</link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+        <branch id="b020103">
+          <branchText>1.3. зумовлені природно-біотичними чинниками</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Деградація ґрунтів</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Вміст рухомих форм кадмію в ґрунтах</leafText>
+            <link></link>
+            <Frame>contents</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Вміст рухомих форм свинцю в ґрунтах</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Санітарний стан лісів</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Стан біологічного різноманіття</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <branch id="b02010301">
+            <branchText>Поширення тварин – шкідників та паразитів:</branchText>
+            <link></link>
+            <Frame>contents</Frame>
+            <ImageIndex>7</ImageIndex>
+            <leaf>
+              <leafText>Гризуни-шкідники</leafText>
+              <link></link>
+              <Frame>script</Frame>
+              <ImageIndex>9</ImageIndex>
+            </leaf>
+            <leaf>
+              <leafText>Комахи шкідники польових культур</leafText>
+              <link></link>
+              <Frame>script</Frame>
+              <ImageIndex>9</ImageIndex>
+            </leaf>
+            <leaf>
+              <leafText>Комахи шкідники лісових культур</leafText>
+              <link></link>
+              <Frame>script</Frame>
+              <ImageIndex>9</ImageIndex>
+            </leaf>
+            <leaf>
+              <leafText>Комахи-шкідники садових культур і виноградників</leafText>
+              <link></link>
+              <Frame>script</Frame>
+              <ImageIndex>9</ImageIndex>
+            </leaf>
+          </branch>
+          <branch id="b02010302">
+            <branchText>Поширення тварини переносників збудників хвороб людини:</branchText>
+            <link></link>
+            <Frame>contents</Frame>
+            <ImageIndex>7</ImageIndex>
+            <leaf>
+              <leafText>Іксодові кліщі</leafText>
+              <link></link>
+              <Frame>script</Frame>
+              <ImageIndex>9</ImageIndex>
+            </leaf>
+            <leaf>
+              <leafText>Комарі і москіти</leafText>
+              <link></link>
+              <Frame>script</Frame>
+              <ImageIndex>9</ImageIndex>
+            </leaf>
+          </branch>
+          <leaf>
+            <leafText>Гельмінтози та зоонози людини</leafText>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+      </branch>
+      <branch id="b0202">
+        <branchText>Розділ II. Техногенні небезпеки та ризики</branchText>
+        <branchDescription />
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+        <leaf>
+          <leafText>Функціональне зонування території за потенційними небезпеками витоків  надзвичайних ситуацій</leafText>
+          <Description></Description>
+          <link></link>
+          <Frame>script</Frame>
+          <ImageIndex>9</ImageIndex>
+        </leaf>
+        <branch id="b020201">
+          <branchText>2.1. зумовлені концентрацією промислових об’єктів</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Потенційно небезпечні об’єкти хімічної небезпеки</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Об’єкти ядерної небезпеки</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Потенційно небезпечні об’єкти пожежовибухової небезпеки</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Гідродинамічна небезпека</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Зношеність основних засобів виробництва у промисловості</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Зношеність основних засобів виробництва у добувній промисловості</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame></Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Зношеність основних засобів виробництва у переробній промисловості</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Зношеність основних засобів виробництва у виробництві та розподілі електроенергії, газу та води</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Зношеність основних засобів виробництва у будівництві</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+        <branch id="b020202">
+          <branchText>2.2. зумовлені станом об’єктів житлово-комунального господарства</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Аварійні будинки</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame></Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Каналізаційні насосні агрегати</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+        <branch id="b020203">
+          <branchText>2.3. зумовлені накопиченням відходів</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Токсичні промислові відходи</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Хвостосховища та шламосховища</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Непридатні до використання отрутохімікати</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Побутові відходи</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Непридатні до використання отрутохімікати</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+      </branch>
+      <branch id="b0203">
+        <branchText>Розділ ІІІ. Соціальні небезпеки та ризики</branchText>
+        <branchDescription />
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+        <branch id="b020301">
+          <branchText>3.1. зумовлені суспільно-політичною та етнічною структурою суспільства</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Суспільна консолідація населення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Етнічне різноманіття населення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Поліетнічний регіон. Автономна Республіка Крим</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Поліетнічний регіон. Одеська область</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Поліетнічний регіон. Закарпатська область</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Суспільна консолідація населення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Поліетнічний регіон. Запорізька область</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Поліетнічний регіон. Чернівецька область</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Різноманіття конфесій</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Українська мова в регіонах</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+        <branch id="b020302">
+          <branchText>3.2. зумовлені концентрацією населення</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Густота та чисельність населення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Населеність регіонів</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Густота населення в містах</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Розселення міського населення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Розселення сільського населення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Розселення населення в Українських Карпатах</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Розселення населення в зонах радіоактивного забруднення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+        <branch id="b020303">
+          <branchText>3.3. зумовлені депопуляцією населення</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Зміна чисельності населення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <branch id="b02030301">
+            <branchText>Населення непрацездатного віку:</branchText>
+            <branchDescription />
+            <link></link>
+            <Frame>contents</Frame>
+            <ImageIndex>7</ImageIndex>
+            <leaf>
+              <leafText>діти (до 5 років, від 5 до 9 років, від 9 до 14 років)</leafText>
+              <Description></Description>
+              <link></link>
+              <Frame>script</Frame>
+              <ImageIndex>9</ImageIndex>
+            </leaf>
+            <leaf>
+              <leafText>населення віком старше за 65 років</leafText>
+              <Description></Description>
+              <link></link>
+              <Frame>script</Frame>
+              <ImageIndex>9</ImageIndex>
+            </leaf>
+          </branch>
+          <leaf>
+            <leafText>Природний рух населення</leafText>
+            <Description>По документу AtlasEmrg_TOC_20140404.doc</Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Зовнішні міграції населення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+        <branch id="b020304">
+          <branchText>3.4. зумовлені соціально-економічними умовами життя населення</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Бідність</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Безробіття населення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Доходи населення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+        <branch id="b020305">
+          <branchText>3.5. зумовлені рівнем соціальної стійкості суспільства</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Алкоголізм і алкогольні психози</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Наркоманія та токсикоманія</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Правопорушення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Дитяча безпритульність</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Неповні сім’ї з дітьми</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Дорожньо-транспортні пригоди</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Виробничий травматизм</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Інвалідність населення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+        <branch id="b020306">
+          <branchText>3.6. зумовлені захворюваністю населення</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame></Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Первинна захворюваність населення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <branch id="b02030601">
+            <branchText>Рівень захворюваності серед:</branchText>
+            <branchDescription />
+            <link></link>
+            <Frame>contents</Frame>
+            <ImageIndex>7</ImageIndex>
+            <leaf>
+              <leafText>дитячого населення</leafText>
+              <Description></Description>
+              <link></link>
+              <Frame>script</Frame>
+              <ImageIndex>9</ImageIndex>
+            </leaf>
+            <leaf>
+              <leafText>населення працездатного віку</leafText>
+              <Description></Description>
+              <link></link>
+              <Frame>script</Frame>
+              <ImageIndex>9</ImageIndex>
+            </leaf>
+            <leaf>
+              <leafText>населення похилого віку</leafText>
+              <Description></Description>
+              <link></link>
+              <Frame>script</Frame>
+              <ImageIndex>9</ImageIndex>
+            </leaf>
+          </branch>
+          <leaf>
+            <leafText>Захворюваність населення активним туберкульозом</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Захворюваність населення, зумовлена вірусом імунодефіциту людини</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <branch id="b02030602">
+            <branchText>Смертність дорослого населення  від:</branchText>
+            <branchDescription>У документі Структура_20140404.doc було 'смертності'</branchDescription>
+            <link></link>
+            <Frame>contents</Frame>
+            <ImageIndex>7</ImageIndex>
+            <leaf>
+              <leafText>хвороб системи кровообігу</leafText>
+              <Description></Description>
+              <link></link>
+              <Frame>script</Frame>
+              <ImageIndex>9</ImageIndex>
+            </leaf>
+            <leaf>
+              <leafText>злоякісних новоутворень</leafText>
+              <Description></Description>
+              <link></link>
+              <Frame>script</Frame>
+              <ImageIndex>9</ImageIndex>
+            </leaf>
+            <leaf>
+              <leafText>хвороб органів травлення</leafText>
+              <Description></Description>
+              <link></link>
+              <Frame>script</Frame>
+              <ImageIndex>9</ImageIndex>
+            </leaf>
+          </branch>
+          <leaf>
+            <leafText>Загрози економічному зростанню регіонів, обумовлені дитячою смертністю</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Загрози природно-вогнищних інфекцій</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+        <branch id="b020307">
+          <branchText>3.7. зумовлені доступом до якісних ресурсів навколишнього середовища</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Можливі зміни у здоров’ї населення міст, викликаний викидами забруднювальних речовин стаціонарними джерелами</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Можливі зміни у здоров’ї населення міст, викликаний викидами забруднювальних речовин від пересувних джерел</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Якість питної води з джерел централізованого питного водопостачання</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Забезпечення привізною питною водою населених пунктів і населення</leafText>
+            <Description>У документі Структура_20140404.doc було 'Дефіцит води'</Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+      </branch>
+      <branch id="b0204">
+        <branchText>Розділ IV. Надзвичайні ситуації в Україні</branchText>
+        <branchDescription />
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+        <branch id="b020401">
+          <branchText>Хронологія надзвичайних ситуацій (2000-2012 рр.)</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Надзвичайні ситуації</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Надзвичайні події державного значення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Надзвичайні події регіонального значення</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+        <branch id="b020402">
+          <branchText>Інфраструктурне забезпечення ліквідації наслідків НС</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Середній медичний персонал</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Кількість місць в лікарняних установах</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Кількість машин швидкої допомоги</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Кількість приватних автомобілів</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+        <branch id="b020403">
+          <branchText>Втрати та збитки від надзвичайних ситуацій</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Загиблі внаслідок надзвичайних ситуацій (2000-2012 рр.)</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Матеріальні збитки від НС (2000-2012 рр.)</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+      </branch>
+      <branch id="b0205">
+        <branchText>Розділ V. Упередження виникнення надзвичайних ситуацій</branchText>
+        <branchDescription />
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+        <branch id="b020501">
+          <branchText>Збереження природного середовища</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Моніторинг природного середовища</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Природні заповідні території</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+        <branch id="b020502">
+          <branchText>Організація системи запобігання можливим аваріям та ліквідації їх наслідків</branchText>
+          <branchDescription />
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>5</ImageIndex>
+          <leaf>
+            <leafText>Організація державної служби з надзвичайних ситуацій</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Природні заповідні території</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Державна авіаційна пошуково-рятувальна служба</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Схема дислокації ДСУНС</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Природні заповідні території</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Державна спеціалізована (воєнізована) гірничо-рятувальна (аварійно-рятувальна) служба ДСУНС</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Технічне забезпечення ДСУНС</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Пожежно-рятувальні підрозділи</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Наукове забезпечення функціонування системи запобігання надзвичайних ситуацій</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+          <leaf>
+            <leafText>Видатки на ліквідацію надзвичайних ситуацій</leafText>
+            <Description></Description>
+            <link></link>
+            <Frame>script</Frame>
+            <ImageIndex>9</ImageIndex>
+          </leaf>
+        </branch>
+      </branch>
+    </branch>
+    <branch id="bs1">
+      <branchText>Робота з Атласом</branchText>
+      <branchDescription>Сервісна гілка, тому bs1</branchDescription>
+      <link></link>
+      <Frame>contents</Frame>
+      <ImageIndex>1</ImageIndex>
+      <leaf>
+        <leafText>Керівництво користувача</leafText>
+        <Description></Description>
+        <link>..\..\Help\Help_index.htm</link>
+        <Frame>contents</Frame>
+        <ImageIndex>12</ImageIndex>
+      </leaf>
+      <branch id="bs101">
+        <branchText>Інформація про розробників</branchText>
+        <branchDescription />
+        <link></link>
+        <Frame>contents</Frame>
+        <ImageIndex>3</ImageIndex>
+        <leaf>
+          <leafText>Інститут Географії Національної академії наук України</leafText>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>ТОВ Інтелектуальні Системи ГЕО</leafText>
+          <Description>В.Ч. 28-кві-14 спобував послатися на файл HTML у кореневій директорії. Не спрацювало.</Description>
+          <link>toc2008RAwithXSLTiMSXML3.htm</link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+        <leaf>
+          <leafText>Про Атлас</leafText>
+          <link></link>
+          <Frame>contents</Frame>
+          <ImageIndex>12</ImageIndex>
+        </leaf>
+      </branch>
+    </branch>
+  </Tree>
+</Root>
